@@ -53,7 +53,7 @@ This dashboard helps social media managers and digital marketers:
 * Make data-driven marketing decisions
 
 ## Preview 
-Page1:
+Page1: https://github.com/KrishnaRajoo/Instagram_Post_Analysis_Dashboard/blob/main/Screenshot%202026-02-11%20203019.png
 Page2:
 
 ## 👨‍💻 Author
